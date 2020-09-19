@@ -32,7 +32,9 @@ namespace NameGeneratorInterface
             {
                 Generation g = new Generation(@"C:\Users\maxfa\source\repos\GeneratorFiles\SerializedLetterData.txt", @"C:\Users\maxfa\source\repos\GeneratorFiles\SerializedFirstLetterData.txt", minLengthInput.Text, maxLengthInput.Text);
                 ResultLabel.Text = g.finalWord;
+                //Test
             }
         }
+
     }
 }

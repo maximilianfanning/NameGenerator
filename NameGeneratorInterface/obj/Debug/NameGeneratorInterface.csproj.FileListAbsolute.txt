@@ -1,0 +1,3 @@
+D:\src\NameGenerator\NameGeneratorInterface\obj\Debug\NameGeneratorInterface.csprojAssemblyReference.cache
+D:\src\NameGenerator\NameGeneratorInterface\obj\Debug\NameGeneratorInterface.Interface.resources
+D:\src\NameGenerator\NameGeneratorInterface\obj\Debug\NameGeneratorInterface.csproj.GenerateResource.cache
