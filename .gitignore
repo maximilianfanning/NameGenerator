@@ -10,15 +10,14 @@
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
+# Reserved directories
 .vs/
+packages/
 
 # Build results
 **/[Dd]ebug/
-[Dd]ebugPublic/
 [Rr]elease/
-[Rr]eleases/
 x64/
 x86/
-bld/
 [Bb]in/
-[Oo]bj/ codeflow:open?pullrequest=https://github.com/maximilianfanning/NameGenerator/pull/5&ref=ChromeExtension
+[Oo]bj/ 
