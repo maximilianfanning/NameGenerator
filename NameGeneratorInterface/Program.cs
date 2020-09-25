@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace NameGenerator2
+namespace NameGeneratorInterface
 {
     static class Program
     {
@@ -16,7 +16,7 @@ namespace NameGenerator2
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form());
+            Application.Run(new Interface());
         }
     }
 }

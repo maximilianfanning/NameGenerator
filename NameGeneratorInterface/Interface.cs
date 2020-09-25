@@ -19,7 +19,6 @@ namespace NameGeneratorInterface
 
         private void Execute_BTN_Click(object sender, EventArgs e)
         {
-            Random rng = new Random();
             if (string.IsNullOrEmpty(minLengthInput.Text))
             {
                 ResultLabel.Text = "Enter a value for your minimum characters!";
